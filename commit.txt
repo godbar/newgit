@@ -4,3 +4,5 @@ git commit -m "
 1123
 "
 git push origin master
+echo "========================"
+git log --oneline | head
