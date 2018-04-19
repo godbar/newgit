@@ -1,0 +1,6 @@
+echo "hello..."
+git add .
+git commit -m "
+1123
+"
+git push origin master
